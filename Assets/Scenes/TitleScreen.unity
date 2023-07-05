@@ -1196,6 +1196,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -4939674921913186828, guid: c8de0c8b478f5344e86140efb0c1a4ef, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 5196845153198175770, guid: c8de0c8b478f5344e86140efb0c1a4ef, type: 3}
       propertyPath: m_Name
       value: PlayerCylinder
@@ -1257,6 +1261,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: -2583256344017301026, guid: 3402b05f02fb1c242962bdd6f7a745fc, type: 3}
+      propertyPath: m_Enabled
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 19121234108427714, guid: 3402b05f02fb1c242962bdd6f7a745fc, type: 3}
       propertyPath: m_RootOrder
       value: 6
